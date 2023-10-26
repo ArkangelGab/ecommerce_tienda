@@ -1,6 +1,6 @@
-## descripcion:
+## descripción:
 
-# Tienda online con local fisico, donde se acutaliza en timepo real el stock de los productos.
+Tienda on_line con local físico, donde se actualiza en tiempo real el stock de los productos.
 
 # paleta de colores 
 
